@@ -1,9 +1,9 @@
 {
   "name": "modulex-dom",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "yiminghe <yiminghe@gmail.com>",
   "engines": {
-    "node": "~0.11"
+    "node": ">=0.11"
   },
   "license": "MIT",
   "repository": {
